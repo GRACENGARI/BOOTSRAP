@@ -1,1 +1,1 @@
-This project demonstrates the use of Bootstrap's form and table components to create visually appealing and responsive web forms and data displays. Bootstrap provides a comprehensive set of pre-styled components that can be easily customized to fit your specific needs.
+
